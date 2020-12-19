@@ -1,4 +1,4 @@
-# PROJETO-FINAL
+# FRITADEIRA ELÉTRICA
 Olá, meu nome é Lailton Martins Canabrava e neste projeto é efetuada a simulação de uma fritadeira elétrica que possui funções como controlar a temperatura e definir o tempo.
 
 #include "config.h"
