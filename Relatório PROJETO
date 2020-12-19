@@ -1,1 +1,36 @@
-a
+NOME: Lailton Martins Canabrava 
+
+APLICATIVOS: MPLABX IDE v5. 20; 
+
+             PICSIM LAB;           
+
+ 
+
+PROJETO: O projeto consiste em uma simulação de uma fritadeira elétrica, onde é possível visualizar conhecimentos adquiridos ao longo do semestre pela disciplina de Programação Embarcada. Basicamente, o funcionamento do sistema consiste em inserir o alimento dentro da máquina e o mesmo possui funções como controle de tempo e temperatura, além de algumas funções interligadas, como o desligamento simultâneo da ventoinha ao término do tempo.  
+
+ 
+
+PERIFÉRICOS: Para esta simulação foram utilizados os seguintes periféricos com suas devidas funções. O DISPLAY indica o tempo restante para o fim do preparo do alimento. LCD possui a função de informar ao usuário todo o procedimento. A VENTOINHA simula a rotação do motor da máquina, aquecendo a temperatura e consequentemente preparando o alimento. O KEYBOARD é responsável por designar as funções a serem realizadas através do acionamento de seus botões. 
+
+ 
+
+DESENVOLVIMENTO: Para explicar de maneira mais clara o funcionamento do projeto, foi dividido em três etapas. 
+
+     1º ETAPA: A primeira etapa corresponde a tela inicial do LCD, onde aparece a opção do alimento escolhido e abaixo o controle da temperatura, na máquina física é feita por uma trava giratória onde cada posição é responsável por uma temperatura, para esta parte, a simulação possibilita a escolha de três valores, temperatura baixa (ventoinha com velocidade baixa), temperatura média (ventoinha com velocidade média) e temperatura alta (ventoinha com velocidade máxima). 
+
+ 
+
+ 
+
+     2º ETAPA:  A segunda etapa corresponde a representação do tempo, para a máquina, uma trava giratória com várias posições define o tempo que a máquina ficará ligada. Para esta simulação, defini apenas dois valores, 1 minuto caso queira tempos maiores e 30 segundo caso queira um menor tempo. Sendo informado no LCD os dois casos e assim que selecionado, o display inicia a contagem. 
+
+ 
+
+     
+     
+     3º ETAPA:  Ao término da preparação, automaticamente a máquina se desliga para esperar um novo comando ou para se encerrar suas atividades, baseando-se nisso a simulação mostra que o motor se desliga e o display zera para indicar que terminou o preparo do alimento. 
+
+
+ 
+
+ CONCLUSÃO: Com o término da simulação e de toda a demonstração do processo, conclui-se que os conhecimentos adquiridos foram suficientes para realizar as determinadas tarefas, validando o projeto final para a disciplina teórica e prática da matéria de programação embarcada ministrada pelos professores RODRIGO ALMEIDA e OTÁVIO GOMES. 
